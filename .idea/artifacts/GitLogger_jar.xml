@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GitLogger:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GitLogger_jar</output-path>
+    <root id="archive" name="GitLogger.jar">
+      <element id="module-output" name="GitLogger" />
+    </root>
+  </artifact>
+</component>
